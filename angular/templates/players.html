@@ -1,0 +1,28 @@
+<div id="playerpage">
+    <div>Filter By Role:
+        <select ng-model="search.player_role">
+  <option value="All-rounder">All Rounder</option>
+  <option value="Batsman">Batsman</option>
+  <option value="Bowler">Bowler</option>
+  <option value="">All Players</option>
+</select>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-3" ng-repeat="player in players | filter:search.player_role">
+            <div class="dropdown">
+                <div id="align"><img src="{{player.player_img_url}}" height="180" alt="{{player.player_name}}" /></div>
+                <div class="dropdown-content">
+                    <div class="product-description">
+                        <p><span><b>Name:</b> </span>{{player.player_name}}</p>
+                        <p><span><b>DOB:</b> </span>{{player.player_dob}} </p>
+                        <p><span><b>Nationality:</b> </span>{{player.player_nationality}}</p>
+                        <p><span><b>Batting style:</b> </span>{{player.player_batting_style}}</p>
+                        <p><span><b>Bowling_style:</b> </span>{{player.player_bowling_style}} </p>
+                        <p><span><b>Role:</b> </span>{{player.player_role}} </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

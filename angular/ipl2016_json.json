@@ -1,0 +1,1665 @@
+[{
+    "id": 0,
+    "team_captain": "Zaheer Khan",
+    "team_coach": "Paddy Upton",
+    "team_home_venue": "Feroz Shah Kotla Ground",
+    "team_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/team_logo%2FDD.jpg?alt=media&token=86c7842b-850a-464b-9f9d-e4d17ebda4ed",
+    "team_name": "Delhi Daredevils",
+    "team_owner": "GMR Sports Pvt Ltd",
+    "team_players": [{
+        "player_batting_style": "left_handed",
+        "player_bowling_style": "Off-spin and medium pace",
+        "player_dob": "31 October 1994",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fakhil_herwadkar.png?alt=media&token=a18823ee-62fd-434f-b83e-8286125faec9",
+        "player_name": "Akhil Herwadkar",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "24 November 1982",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Famit_mishra.png?alt=media&token=62fe9961-206c-432f-a844-ca21778e0d0f",
+        "player_name": "Amit Mishra",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm fast-medium",
+        "player_dob": "18 July 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fcarlos_brathwaite.png?alt=media&token=58a2e475-a0b1-4f44-8169-b83124517962",
+        "player_name": "Carlos Barathwaite",
+        "player_nationality": "West Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm medium",
+        "player_dob": "04 September 1994",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fchama_milind.png?alt=media&token=d9f4f9f7-d8f3-4b0d-9ea3-71c6711d3c22",
+        "player_name": "Chama Milind",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Leg-spinner",
+        "player_dob": "27 March 1979",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fimran_tahir.png?alt=media&token=ecdafb62-7bdd-47d4-8f3f-2213a3896ab9",
+        "player_name": "Imran Tahir",
+        "player_nationality": "South African",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "22 January 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fjayant_yadav.png?alt=media&token=3e05f0fe-5597-4979-a97a-eeffdda5cb64",
+        "player_name": "Jayant Yadav",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "14 April 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fjp_duminy.png?alt=media&token=a3ae6306-abf5-45dc-a84d-2ce1f1fa48fc",
+        "player_name": "J P Duminy",
+        "player_nationality": "South African",
+        "player_role": "Batting All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "06 December 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fkarun_nair.png?alt=media&token=1a44e6e7-9edd-4608-8394-f67bc9952c17",
+        "player_name": "Karun Nair",
+        "player_nationality": "Indian",
+        "player_role": "Batting All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Left-arm medium pace",
+        "player_dob": "05 December 1997",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fkhaleel_ahmed.png?alt=media&token=f8203095-bec5-417f-8bed-a24884018b0b",
+        "player_name": "Khaleel Ahemed",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm spin",
+        "player_dob": "16 November 1999",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fmahipal_lomror.png?alt=media&token=eca4c50a-d17b-42d8-bf46-ab13ca8a32b2",
+        "player_name": "Mahipal Lomor",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "18 February 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fmayank_agarwal.png?alt=media&token=dc434825-c715-4ad0-a959-121f7378e3e0",
+        "player_name": "Mayank Agarwal",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "09 March 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fmohammed_shami.png?alt=media&token=5191b130-c3e4-4e8a-9006-5b3bfc7ec030",
+        "player_name": "Mohammed Shami",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm fast",
+        "player_dob": "11 October 1987",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fnathan_coulter_nile.png?alt=media&token=a17a6a78-41b9-4f7a-bd24-28444be6069e",
+        "player_name": "Nathan Coulter-Nile",
+        "player_nationality": "Australian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "06 January 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fpawan_negi.png?alt=media&token=4e7c5c27-e081-4c3a-87ab-57c47596679a",
+        "player_name": "Pawan Negi",
+        "player_nationality": "Indian",
+        "player_role": "Bowling All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Left-arm medium",
+        "player_dob": "15 October 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fpawan_suyal.png?alt=media&token=9f11cb98-b43b-4e9c-82a6-78eaf1002bb2",
+        "player_name": "Pawan Suyal",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg-break",
+        "player_dob": "04 September 1994",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fpratyush_singh.png?alt=media&token=f012ca1b-9cd1-492f-90de-0c4a03ccb5b2",
+        "player_name": "Pratyush Singh",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "-",
+        "player_dob": "17 December 1992",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fquinton_de_kock.png?alt=media&token=0080346e-b62f-453a-951e-83adae1becc1",
+        "player_name": "Quinton de Kock",
+        "player_nationality": "South African",
+        "player_role": "Wicketkeeper batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm leg-break",
+        "player_dob": "04 October 1997",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Frishabh_pant.png?alt=media&token=7c9df6a9-11d9-4334-969e-0106a7664a7f",
+        "player_name": "Rishabh Pant",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper-batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "15 June 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fsam_billings.png?alt=media&token=2a41d98c-de41-4630-a3f5-49187140c6dd",
+        "player_name": "Sam Billings",
+        "player_nationality": "English",
+        "player_role": "Wicketkeeper Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "11 November 1994",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fsanju_samson.png?alt=media&token=1ce7cd49-cac3-43f3-9601-76ba49dfc610",
+        "player_name": "Sanju Samson",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper Batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "12 August 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fsanju_samson.png?alt=media&token=1ce7cd49-cac3-43f3-9601-76ba49dfc610",
+        "player_name": "Shahbaz Nadeem",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-break",
+        "player_dob": "06 December 1994",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fshreyas_iyer.png?alt=media&token=984e3616-6a14-43f4-bc8d-2fa997b9bf5f",
+        "player_name": "Shreyas Iyer",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Left-arm medium fast",
+        "player_dob": "07 October 1978",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/DelhiDareDevils%2Fshreyas_iyer.png?alt=media&token=984e3616-6a14-43f4-bc8d-2fa997b9bf5f",
+        "player_name": "Zaheer Khan",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }]
+}, {
+    "id": 1,
+    "team_captain": "Suresh Raina",
+    "team_coach": "Brad Hodge",
+    "team_home_venue": "Saurashtra Cricket Association Stadium",
+    "team_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/team_logo%2FGL.jpg?alt=media&token=f32b4d88-40ad-4b69-b7c3-ecf5e6c5e6fc",
+    "team_name": "Gujarat Lions",
+    "team_owner": "Intex Technologies",
+    "team_players": [{
+        "player_batting_style": "left_handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "27 November 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fsuresh_raina.png?alt=media&token=cb2111fe-248d-4e5e-abae-c177f06f6eda",
+        "player_name": "Suresh Raina",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Left-arm medium",
+        "player_dob": "17 November 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Faaron_finch.png?alt=media&token=68b48787-0d6d-4663-a2e2-3e9f9b676c88",
+        "player_name": "Aaron Finch",
+        "player_nationality": "Australian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium-fast",
+        "player_dob": "10 May 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fakshdeep_nath.png?alt=media&token=133302b0-2822-44f2-87ff-88d9549e355b",
+        "player_name": "Akshdeep Nath",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "11 November 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fa_mishra.png?alt=media&token=e96b7ae8-32f6-4247-a5fa-8eff8c4bb09b",
+        "player_name": "A Mishra",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "12 December 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fandrew_tye.png?alt=media&token=9f41548c-3675-4505-8cd7-58b4b50b7ec3",
+        "player_name": "Andrew Tye",
+        "player_nationality": "Australian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "27 September 1981",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fbrendon_mcCullum.png?alt=media&token=235c4233-6dd4-487c-a606-291fe048f212",
+        "player_name": "Brendon MacCullum",
+        "player_nationality": "New Zealander",
+        "player_role": "Wicketkeeper batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm fast",
+        "player_dob": "27 June 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fdale_steyn.png?alt=media&token=de4403ce-9f66-4192-9aca-dcf52f3b1de0",
+        "player_name": "Dale Steyn",
+        "player_nationality": "South African",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "10 December 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fdhawal_kulkarni.png?alt=media&token=090a5c9d-f27c-458e-8e0c-f4b57f175ef8",
+        "player_name": "Dhawal Kulkarni",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "01 June 1985",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fdinesh_karthik.png?alt=media&token=19f1e046-3030-4ade-8312-702944e78f5e",
+        "player_name": "Dinesh Karthik",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper batsman"
+    }, {
+        "player_batting_style": "All-rounder",
+        "player_bowling_style": "All-rounder",
+        "player_dob": "07 October 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fdwayne_bravo.png?alt=media&token=ad53e3c2-8bb2-413a-8a4d-b7c8bc03d411",
+        "player_name": "Dwayne Bravo",
+        "player_nationality": "West Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "12 April 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fdwayne_smith.png?alt=media&token=48524e55-14ec-4b28-b53c-f51a8d9a9db1",
+        "player_name": "Dwayne Smith",
+        "player_nationality": "West Indian",
+        "player_role": "Batting All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "22 July 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Feklavya_dwivedi.png?alt=media&token=f6bcc099-8b03-400b-b662-3cf951731521",
+        "player_name": "Eklavya Dwivedi",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper batsman"
+    }, {
+        "player_batting_style": "-",
+        "player_bowling_style": "-",
+        "player_dob": "18 July 1998",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fishan_kishan.png?alt=media&token=b4e94bca-f4bf-4967-9d76-1517d294e44d",
+        "player_name": "Ishan Kishan",
+        "player_nationality": "Indian",
+        "player_role": "-"
+    }, {
+        "player_batting_style": "All-rounder",
+        "player_bowling_style": "All-rounder",
+        "player_dob": "29 April 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fjames_faulkner.png?alt=media&token=238a659a-80a5-4cf0-bb7a-8863a79ed952",
+        "player_name": "James Faulkener",
+        "player_nationality": "Australian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "04 May 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fjaydev_shah.png?alt=media&token=e3685421-416d-49ed-b9d7-f7c575a77260",
+        "player_name": "Jaydev Shah",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "19 November 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fparas_dogra.png?alt=media&token=733e040d-6824-4e9f-9695-e9520793b66c",
+        "player_name": "Paras Dogra",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Left-arm medium fast",
+        "player_dob": "05 November 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fpradeep_sangwan.png?alt=media&token=74e21f32-2c44-4f2e-8ca2-6c97ff096cea",
+        "player_name": "Pradeep Sangwan",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "02 October 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fpraveen_kumar.png?alt=media&token=2a04bb1a-964d-4958-8ea2-903f287c6ce4",
+        "player_name": "Praveen Kumar",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "08 October 1971",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fpravin_tambe.png?alt=media&token=5193da4e-0bb0-49e1-8f53-682c08541f43",
+        "player_name": "Pravin Tambe",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "06 December 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fravindra_jadeja.png?alt=media&token=e9bba44b-a02b-4d05-b919-86935cda284a",
+        "player_name": "Ravindra Jadeja",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "10 July 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fsarabjit_ladda.png?alt=media&token=8f0f1fba-926e-4656-b872-fcb1fafbaef9",
+        "player_name": "Sarabjit Ladda",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "27 November 1980",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fshadab_jakati.png?alt=media&token=ba419cd4-8b3b-4c83-ba0d-8e21cfe9c3d5",
+        "player_name": "Shadab Jakati",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "-",
+        "player_dob": "09 July 1995",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fshivil_kaushik.png?alt=media&token=94145688-7f5b-4750-8390-0644bbf7c1aa",
+        "player_name": "Shivil Kaushik",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "-",
+        "player_bowling_style": "-",
+        "player_dob": "20 October 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/GujratLions%2Fumang_sharma.png?alt=media&token=8b78ba06-9feb-46f5-a266-f8beb3c1bd99",
+        "player_name": "Umang Sharma",
+        "player_nationality": "Indian",
+        "player_role": "-"
+    }]
+}, {
+    "id": 2,
+    "team_captain": "Murali Vijay",
+    "team_coach": "Sanjay Bangar",
+    "team_home_venue": "IS Bindra Stadium",
+    "team_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/team_logo%2FKXIP.jpg?alt=media&token=43a608dd-f0ca-46bf-8f36-be2322dea0b3",
+    "team_name": "Kings XI Punjab",
+    "team_owner": "KPH Dream Cricket Private Limited",
+    "team_players": [{
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "01 April 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fmurali_vijay.png?alt=media&token=0d3511d7-f86d-4ca6-a4aa-d23f44e79b04",
+        "player_name": "Murali Vijay",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "10 June 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fdavid_miller.png?alt=media&token=6278c4f3-60fd-4aa7-bd65-f7e6e0711b27",
+        "player_name": "David Miller",
+        "player_nationality": "South African",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "18 June 1987",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fkyle_abbott.png?alt=media&token=bba15e55-7ece-494b-979d-bf9f25b35d00",
+        "player_name": "Kyle Abbott",
+        "player_nationality": "South African",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "26 February 1982",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fanureet_singh.png?alt=media&token=165f9380-20a0-48ba-97dc-fd100a240fab",
+        "player_name": "Anureet Singh",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "25 October 1998",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Farmaan_jaffer.png?alt=media&token=7eb35939-3f8c-416f-af72-1069b74f9cdd",
+        "player_name": "Armaan Jaffer",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm fast-medium",
+        "player_dob": "09 October 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Ffarhaan_behardien.png?alt=media&token=54965816-a39b-4cf2-9c21-587380139fa8",
+        "player_name": "Farhaan Behardien",
+        "player_nationality": "South African",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Leg-break",
+        "player_dob": "13 April 1994",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fk_c_cariappa.png?alt=media&token=d457744f-62f7-494b-b004-dd0010f005a5",
+        "player_name": "KC Cariappa",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "19 February 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Frishi_dhawan.png?alt=media&token=0b39041f-ebcd-4571-b04a-eda1e56515e5",
+        "player_name": "Rishi Dhawan",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "29 June 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fgurkeerat_mannSingh.png?alt=media&token=2d8a09df-6ca2-44d2-830e-1f9cf444db7b",
+        "player_name": "Gurkeerat Mann Singh",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm fast",
+        "player_dob": "02 November 1981",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fmitchell_johnson.png?alt=media&token=14cf2c73-b119-404d-a9cb-782646d64eaf",
+        "player_name": "Mitchell Johnson",
+        "player_nationality": "Australian",
+        "player_role": "Bowling All-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "09 July 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fshaun_marsh.png?alt=media&token=8d4288d5-74dd-424a-ac4f-3ea5022be98c",
+        "player_name": "Shaun Marsh",
+        "player_nationality": "Australian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "14 October 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fglenn_maxwell.png?alt=media&token=d9763c8b-6e80-4e86-a9a5-52e7c97b9b0a",
+        "player_name": "Glenn Maxwell",
+        "player_nationality": "Australian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "09 November 1994",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fnikhil_naik.png?alt=media&token=c2ed0ec5-f56f-421a-9c32-674c38a926e1",
+        "player_name": "Nikhil Naik",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper-batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "20 January 1994",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Faxar_patel.png?alt=media&token=eb0a7083-ac82-47c6-9861-b1542e8d7657",
+        "player_name": "Axar Patel",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "24 October 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fwriddhiman_saha.png?alt=media&token=fdddd484-6479-43b6-9644-f9d0217455aa",
+        "player_name": "Wriddhiman Saha",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Leg-spin",
+        "player_dob": "21 August 1985",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fpardeep_sahu.png?alt=media&token=0cb3ffe3-7d0f-41e0-9b4f-c3181114e2f1",
+        "player_name": "Pradeep Sahu",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "18 May 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fsandeep_sharma.png?alt=media&token=7b9e51d6-9852-4307-bb9c-35b1ba76881e",
+        "player_name": "Sandeep Sharma",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "19 December 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fmohit_sharma.png?alt=media&token=8d72e711-c4c7-4208-a8ac-be15ce22e9d5",
+        "player_name": "Mohit Sharma",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium-fast",
+        "player_dob": "16 August 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fmarcus_stoinis.png?alt=media&token=e7e41c7d-73db-4f88-b8e4-9215d89cd212",
+        "player_name": "Marcus Stonis",
+        "player_nationality": "Australian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Left-arm spin",
+        "player_dob": "22 January 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fswapnil_singh.png?alt=media&token=d99eb939-eadf-4e52-8b62-70cdc08e5052",
+        "player_name": "Swapnil Singh",
+        "player_nationality": "Indian",
+        "player_role": "Bowling all-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "16 October 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fshardul_thakur.png?alt=media&token=e453d83d-f2c0-4160-acec-3be2eb6b1100",
+        "player_name": "Shardul Thakur",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "18 July 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fmanan_vohra.png?alt=media&token=0322388e-e9b0-4136-b5fe-f2782ae6edec",
+        "player_name": "Manan Vohra",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "31 March 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KingsXIPunjab%2Fhashim_amla.png?alt=media&token=035ddeda-eaed-492a-9472-d9a53ec21a8a",
+        "player_name": "Hashim Amla",
+        "player_nationality": "Batsman",
+        "player_role": "Batsman"
+    }]
+}, {
+    "id": 3,
+    "team_captain": "Gautam Gambhir",
+    "team_coach": "Jacques Kallis",
+    "team_home_venue": "Eden Gardens",
+    "team_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/team_logo%2FKKR.jpg?alt=media&token=bdb77341-8f6a-4154-9523-f5aafa05a9cf",
+    "team_name": "Kolkata Knight Riders",
+    "team_owner": "Knight Riders Sports Private Ltd",
+    "team_players": [{
+        "player_batting_style": "left_handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "14 October 1981",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fgautam_gambhir.png?alt=media&token=38e7354e-2335-44d5-a92f-9348ce3cd820",
+        "player_name": "Gautam Gambhir",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm fast",
+        "player_dob": "29 April 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fandre_russell.png?alt=media&token=b0295842-d2df-4a40-9aaa-76c0a4026851",
+        "player_name": "Andre Russell",
+        "player_nationality": "West Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "04 December 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fankit_rajpoot.png?alt=media&token=7b5d06e3-dd31-4fd5-9e4f-7effb069360d",
+        "player_name": "Ankit Rajpoot",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm chinaman",
+        "player_dob": "06 February 1971",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fbrad_hogg.png?alt=media&token=6591d097-a82c-4cc4-9cfe-bd65e2623e54",
+        "player_name": "Brad Hogg",
+        "player_nationality": "Australian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "10 April 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fchris_lynn.png?alt=media&token=b821e76a-d44d-4c39-8c29-b6d858fd15bd",
+        "player_name": "Chris Lynn",
+        "player_nationality": "Australian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right arm medium",
+        "player_dob": "11 March 1987",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fcolin_munro.png?alt=media&token=675b4a98-fa6c-435d-9e49-e57f84a70386",
+        "player_name": "Colin Munro",
+        "player_nationality": "New Zealander",
+        "player_role": "Batsmen"
+    }, {
+        "player_batting_style": "Right-hand bat",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "05 November 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fjason_holder.png?alt=media&token=134d688b-4b7b-468d-a20d-71b5f470c961",
+        "player_name": "Jason Holder",
+        "player_nationality": "West Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm medium fast",
+        "player_dob": "18 October 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fjaydev_unadkat.png?alt=media&token=3f1143d0-0024-49c6-b395-71bb7551b05c",
+        "player_name": "Jaydev Unadkat",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "04 November 1985",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fjohn_hastings.png?alt=media&token=b972c15b-c98e-4d5c-8b7d-070f62140c1a",
+        "player_name": "John Hastings",
+        "player_nationality": "Australian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "14 December 1994",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fkuldeep_yadav.png?alt=media&token=e75514dd-c8fc-4f85-be2e-351535613693",
+        "player_name": "Kuldeep Yadav",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "left-arm spin",
+        "player_dob": "19 March 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fmanan_sharma.png?alt=media&token=603da5e6-7979-452c-b9ed-5a078ec7e74a",
+        "player_name": "Manan Sharma",
+        "player_nationality": "Indian",
+        "player_role": "All -rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "10 September 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fmanish_pandey.png?alt=media&token=1c971d4a-f509-49e6-a59a-63f6f5429c30",
+        "player_name": "Manish Pandey",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm fast",
+        "player_dob": "06 October 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fmorne_morkel.png?alt=media&token=ba010c79-56a2-4be8-a5b5-1921b67e5e2e",
+        "player_name": "Morne Morkel",
+        "player_nationality": "South African",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "24 December 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fpiyush_chawla.png?alt=media&token=de20e823-44d0-4776-82d5-27135e6f6fc5",
+        "player_name": "Piyush Chawla",
+        "player_nationality": "Indian",
+        "player_role": "Bowling All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "14 January 1981",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Frajagopal_sathish.png?alt=media&token=f4683f1c-39c1-4434-b23e-2acfa4b9aa3d",
+        "player_name": "Rajagopal Sathish",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "11 November 1985",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Frobin_uthappa.png?alt=media&token=edab2da3-42cc-460b-949c-0975c35f7545",
+        "player_name": "Robin Uthappa",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "24 March 1987",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fshakib_al_hasan.png?alt=media&token=68e2fb20-36f8-4b5f-863e-9f8777d887db",
+        "player_name": "Shakib Al Hasan",
+        "player_nationality": "Bangladeshi",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "27 September 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fsheldon_jackson.png?alt=media&token=f338beb6-7556-4373-8568-543ab1377eb2",
+        "player_name": "Sheldon Jackson",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper-batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "26 May 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fsunil_narine.png?alt=media&token=9b54c58b-107c-43b1-9b43-5f42ec0a9d1c",
+        "player_name": "Sunil Narine",
+        "player_nationality": "West Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "14 September 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fsuryakumar_yadav.png?alt=media&token=de26854c-3c07-47a8-a4df-322fd6d99dd3",
+        "player_name": "Suryakumar Yadav",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "25 October 1987",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fumesh_yadav.png?alt=media&token=68722583-f257-4cbe-8089-98b1ce2a32ca",
+        "player_name": "Umesh Yadav",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "17 November 1982",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/KolkataKnightRiders%2Fyusuf_pathan.png?alt=media&token=40e3157f-ac84-4f6e-ad1d-093835766b1b",
+        "player_name": "Yusuf Pathan",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }]
+}, {
+    "id": 4,
+    "team_captain": "Rohit Sharma",
+    "team_coach": "Ricky Ponting",
+    "team_home_venue": "Wankhede Stadium",
+    "team_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/team_logo%2FMI.jpg?alt=media&token=450e7746-f69e-47de-8df0-d181d218062f",
+    "team_name": "Mumbai Indians",
+    "team_owner": "Indiawin Sports Pvt. Ltd",
+    "team_players": [{
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "30 April 1987",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Frohit_sharma.png?alt=media&token=2dd972fc-5031-44bf-acfe-6b1a0e958f15",
+        "player_name": "Rohit Sharma",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-break",
+        "player_dob": "03 October 1985",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fakshay_wakhare.png?alt=media&token=68716f82-0573-414a-8a9f-db182dd257c5",
+        "player_name": "Akshay Wakhare",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "23 September 1985",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fambati_rayudu.png?alt=media&token=e82796be-0d0f-4220-8401-c377416695d0",
+        "player_name": "Ambati Rayudu",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm medium fast",
+        "player_dob": "13 December 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fcorey_anderson.png?alt=media&token=7a957d4f-c545-4d6f-9a42-1206caecfbc0",
+        "player_name": "Corey Anderson",
+        "player_nationality": "New Zealander",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "27 September 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fdeepak_punia.png?alt=media&token=6d9c8e16-6c62-40f6-9a84-9ee17ea59100",
+        "player_name": "Deepak Punia",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "03 July 1980",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fharbhajan_singh.png?alt=media&token=57abaefc-b811-434c-82af-7bdca0a94fb5",
+        "player_name": "Harbhajan Singh",
+        "player_nationality": "Indian",
+        "player_role": "Bowling All-rounder"
+    }, {
+        "player_batting_style": "Right-hand",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "11 October 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fhardik_pandya.png?alt=media&token=d46664ba-2744-4c90-ad1e-0bcc603ce45b",
+        "player_name": "Hardik Pandya",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Left-hand",
+        "player_bowling_style": "Slow left-arm orthodox",
+        "player_dob": "16 January 1994",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fhardik_pandya.png?alt=media&token=d46664ba-2744-4c90-ad1e-0bcc603ce45b",
+        "player_name": "Jagadeesha Suchith",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "06 December 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fjasprit_bumrah.png?alt=media&token=8242cdc7-9e1c-4764-9a6b-e83300c30867",
+        "player_name": "Jasprit Bumrah",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "22 October 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fjitesh_sharma.png?alt=media&token=195fa08a-d9e0-4ec4-8486-7b9afa94377d",
+        "player_name": "Jitesh Sharma",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper-batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm fast",
+        "player_dob": "22 June 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2FJerome_taylor.png?alt=media&token=9714393f-5f87-4a8c-8c5c-30ab11b385a8",
+        "player_name": "Jerome Taylor",
+        "player_nationality": "West Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "08 September 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fjitesh_sharma.png?alt=media&token=195fa08a-d9e0-4ec4-8486-7b9afa94377d",
+        "player_name": "Jos Buttler",
+        "player_nationality": "English",
+        "player_role": "Wicketkeeper-batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "12 May 1987",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fkieron_pollard.png?alt=media&token=5d7acd97-a3ae-45d6-8299-4e37a7346c11",
+        "player_name": "Kieron Pollard",
+        "player_nationality": "West Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "31 January 1995",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fkishore_kamath.png?alt=media&token=231b9142-392e-42fa-a2f0-c5de7f9d4126",
+        "player_name": "Kishore Kamath",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox",
+        "player_dob": "24 March 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fkrunal_pandya.png?alt=media&token=b7b3cb62-eb19-4d9e-9fba-876c23b9a629",
+        "player_name": "Krunal Pandya",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm fast",
+        "player_dob": "28 August 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Flasith_malinga.png?alt=media&token=161d2ef4-564c-4707-9433-3717b73e499f",
+        "player_name": "Lasith Malinga",
+        "player_nationality": "Sri Lankan",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium-fast",
+        "player_dob": "25 January 1985",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Flendl_simmons.png?alt=media&token=7ad76b70-aabe-4fcf-acf7-abb12b333b8e",
+        "player_name": "Lendl Simmons",
+        "player_nationality": "West Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "13 October 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fmarchant_de_lange.png?alt=media&token=87e04a47-a9d6-42b9-a7c4-63fb85198652",
+        "player_name": "Marchant de Lange",
+        "player_nationality": "South African",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm medium-fast",
+        "player_dob": "11 June 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fmitchell_mcclenaghan.png?alt=media&token=fc4a7a1d-3328-470c-a9c2-58db869cc1f4",
+        "player_name": "Mitchell McClenaghan",
+        "player_nationality": "New Zealander",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm medium-fast",
+        "player_dob": "11 June 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2FMartin_guptill.png?alt=media&token=0df5ffce-76ac-448c-9bc2-d2c2fe1ff373",
+        "player_name": "Martin Guptill",
+        "player_nationality": "New Zealander",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "-",
+        "player_bowling_style": "-",
+        "player_dob": "12 August 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fnathu_singh.png?alt=media&token=0a97c92e-05f1-4643-a88b-c1427b6a712b",
+        "player_name": "Nathu Singh",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm off-break",
+        "player_dob": "27 December 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fnitish_rana.png?alt=media&token=38c23842-3eea-4d41-8676-9b28b09b1ae8",
+        "player_name": "Nitish Rana",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "-",
+        "player_dob": "09 March 1985",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fparthiv_patel.png?alt=media&token=1d8520b3-a2ab-4bc1-9ee3-454dea78d03e",
+        "player_name": "Parthiv Patel",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "04 September 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fshreyas_gopal.png?alt=media&token=75ba4861-27fa-4e9a-8046-743fb468caf5",
+        "player_name": "Shreyas Gopal",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "RIght-arm off-spin",
+        "player_dob": "23 May 1992",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fsiddhesh_lad.png?alt=media&token=9b310daf-6819-47e1-a9c6-4fb2766225f7",
+        "player_name": "Siddhesh Lad",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "11 December 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Ftim_southee.png?alt=media&token=e0a0f336-c5f1-4dc8-823f-ca0720019b1e",
+        "player_name": "Tim Southee",
+        "player_nationality": "New Zealander",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "26 March 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Funmukt_chand.png?alt=media&token=5b2c3208-e6cc-4f1b-a310-8f9917bfae0e",
+        "player_name": "Unmukt Chand",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "12 February 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/MumbaiIndians%2Fvinay_kumar.png?alt=media&token=d9b7b5aa-8113-46f8-8ece-b2e534ed9f21",
+        "player_name": "Vinay Kumar",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }]
+}, {
+    "id": 5,
+    "team_captain": "MS Dhoni",
+    "team_coach": "Stephen Fleming",
+    "team_home_venue": "Maharashtra Cricket Association's International Stadium",
+    "team_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/team_logo%2FRPS.jpg?alt=media&token=b2cae8d3-d32d-4a86-af87-9d7a74b47d85",
+    "team_name": "Rising Pune Supergiants",
+    "team_owner": "RPSG Group",
+    "team_players": [{
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "07 July 1981",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fm_s_dhoni.png?alt=media&token=b924013a-90e1-44d5-9ba3-89286025e602",
+        "player_name": "MS Dhoni",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "20 April 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fankit_sharma.png?alt=media&token=30fc703b-bffb-4c43-a4ef-40b1ebbfc2e1",
+        "player_name": "Ankit Sharma",
+        "player_nationality": "Indian",
+        "player_role": "Bowling All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm offbreak",
+        "player_dob": "08 July 1994",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fbaba_aparajith.png?alt=media&token=465d0415-4c73-457b-8a07-8990ad586529",
+        "player_name": "Baba Aparajith",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "17 September 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fravichandran_ashwin.png?alt=media&token=aaf1ea4b-c58c-4f36-ad4f-f57a52223ce8",
+        "player_name": "Ravichandran Ashwin",
+        "player_nationality": "Indian",
+        "player_role": "Bowling All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Legbreak googly",
+        "player_dob": "08 September 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fmurugan_ashwin.png?alt=media&token=9ed903e6-bc61-4a89-b906-9b9583f89193",
+        "player_name": "Murugan Ashwin",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "16 December 1995",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fankush_bains.png?alt=media&token=6546f91b-f730-403e-9d0d-509e92375ccc",
+        "player_name": "Ankush Bains",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "22 October 1979",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Frajat_bhatia.png?alt=media&token=6d0a0305-4599-4b04-a4d6-845636c6c055",
+        "player_name": "Rajat Bhatia",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm fast-medium",
+        "player_dob": "11 April 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fscott_boland.png?alt=media&token=e36b9860-7102-4ce5-9390-6f202fa79346",
+        "player_name": "Scott Boland",
+        "player_nationality": "Australian",
+        "player_role": "Batting"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "07 August 1992",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fdeepak_chahar.png?alt=media&token=6b6b9b47-af92-44a8-a65d-6de32c3f6a1b",
+        "player_name": "Deepak Chahar",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "25 March 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fashok_dinda.png?alt=media&token=c48f48d6-21ff-41e9-85c4-fd2832d4e5ad",
+        "player_name": "Ashok Dinda",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "13 July 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Ffrancois_du_plessis.png?alt=media&token=e21ca8e7-d342-4065-bb8c-1918fc3e3f31",
+        "player_name": "Francois du Plessis",
+        "player_nationality": "South African",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "26 April 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fpeter_handscomb.png?alt=media&token=57f050b9-82c9-454d-81d0-6b2626125058",
+        "player_name": "Peter\nHandscomb",
+        "player_nationality": "Australian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "04 September 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fjaskaran_singh.png?alt=media&token=48e83b69-a29d-4973-8ad3-f6ec1ca1a794",
+        "player_name": "Jaskaran Singh",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "20 October 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fmitchell_marsh.png?alt=media&token=306b9f6a-0c8f-4010-b883-f325c15c8215",
+        "player_name": "Mitchell Marsh",
+        "player_nationality": "Australian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "10 June 1981",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Falbie_morkel.png?alt=media&token=8590b370-b267-48da-9ba6-9b3be3ebb600",
+        "player_name": "Albie Morkel",
+        "player_nationality": "South African",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "15 August 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fishwar_pandey.png?alt=media&token=187d4921-6772-4c5e-8d5e-28f402c3ca96",
+        "player_name": "Ishwar Pandey",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm medium fast",
+        "player_dob": "27 October 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Firfan_pathan.png?alt=media&token=19b7237e-d57f-4090-9733-bc9b45d873ea",
+        "player_name": "Irfan Pathan",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "03 April 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fthisara_perera.png?alt=media&token=6dfdb8e0-a66e-430f-9aed-8576fed41239",
+        "player_name": "Thisara Perera",
+        "player_nationality": "Sri Lankan",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "27 June 1980",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fkevin_pietersen.png?alt=media&token=3a6e76ce-3c7b-4f56-abd5-55bb22f09e4a",
+        "player_name": "Kevin Pietersen",
+        "player_nationality": "English",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "06 June 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fajinkya_rahane.png?alt=media&token=0f61d561-99ad-4ff4-8f8b-323d5e5687c5",
+        "player_name": "Ajinkya Rahane",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "02 September 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fishant_sharma.png?alt=media&token=ef89dc43-769a-45d9-8a54-1d8ae40cf53c",
+        "player_name": "Ishant Sharma",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Left-arm medium",
+        "player_dob": "06 December 1985",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fr_p_singh.png?alt=media&token=5fffb74b-e0a8-442c-886c-8ed20f8694e3",
+        "player_name": "RP Singh",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "02 June 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fsteve_smith.png?alt=media&token=4a09e41c-4632-4607-ba92-8e865450c2ec",
+        "player_name": "Steve Smith",
+        "player_nationality": "Australian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "-",
+        "player_dob": "30 December 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fsaurabh_tiwary.png?alt=media&token=bbdd4307-9d29-448e-a904-f41435ecb443",
+        "player_name": "Saurabh Tiwary",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Legbreak googly",
+        "player_dob": "31 March 1992",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2Fadam_zampa.png?alt=media&token=3b332a87-9be6-4f4e-9928-7ca9c550a26b",
+        "player_name": "Adam Zampa",
+        "player_nationality": "Australian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "-",
+        "player_dob": "18 December 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RisingPuneSuperGiants%2FUsman_khawaja.png?alt=media&token=0668e7c1-7b69-4860-9c8c-ec204dbefb6c",
+        "player_name": "Usman Khawaja",
+        "player_nationality": "Australian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "07 September 1982",
+        "player_img_url": "http://static2.iplt20.com/players/284/271.png",
+        "player_name": "George Bailey",
+        "player_nationality": "Australian",
+        "player_role": "Batsman"
+    }]
+}, {
+    "id": 6,
+    "team_captain": "Virat Kohli",
+    "team_coach": "Daniel Vettori",
+    "team_home_venue": "M. Chinnaswamy Stadium",
+    "team_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/team_logo%2FRCB.jpg?alt=media&token=2ed3927f-6f0a-42b4-912f-76839e42bdfb",
+    "team_name": "Royal Challengers Bangalore",
+    "team_owner": "Royal Challengers Sports Private Ltd",
+    "team_players": [{
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "05 November 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fvirat_kohli.png?alt=media&token=764ef432-0814-45b5-9d7c-b878a6bf8850",
+        "player_name": "Virat Kohli",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm fast",
+        "player_dob": "29 October 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fvarun_aaron.png?alt=media&token=bb47dfdd-fb53-4d60-8ac0-2a46ea239655",
+        "player_name": "Varun Aaron",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "05 November 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fabu_nechim.png?alt=media&token=08ba53cf-6247-48ff-808d-f61c6f23b335",
+        "player_name": "Abu Nechim",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm medium fast",
+        "player_dob": "08 April 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fsreenath_aravind.png?alt=media&token=7f3e19f7-3b89-4c57-a88b-87476dc8450f",
+        "player_name": "Sreenath Aravind",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "09 March 1981",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fsamuel_badri.png?alt=media&token=d4b4b665-7242-4ee1-a4d2-e2aface22c66",
+        "player_name": "Samuel Badree",
+        "player_nationality": "West Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "03 June 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fstuart_binny.png?alt=media&token=13b89873-d63e-48aa-8fed-ea604d779428",
+        "player_name": "Stuart Binny",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "23 July 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fyuzvendra_chahal.png?alt=media&token=5d4d2fd9-2fe2-49f9-99c3-348900ead309",
+        "player_name": "Yuzvendra Chahal",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "17 February 1984",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fab_de_villiers.png?alt=media&token=a9dadc03-17c5-428b-84bc-070e27a6e1e1",
+        "player_name": "AB de Villiers",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "01 July 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fpraveen_dubey.png?alt=media&token=cdf2add4-ef84-493b-ad1c-44cd27ff4f6a",
+        "player_name": "Praveen Dubey",
+        "player_nationality": "Indian",
+        "player_role": "Bowling all-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "21 September 1979",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fchris_gayle.png?alt=media&token=c73fa149-ba41-428b-a748-4a8cdc5285af",
+        "player_name": "Chris Gayle",
+        "player_nationality": "West Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm off-break",
+        "player_dob": "29 December 1993",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Ftravis_head.png?alt=media&token=555a5720-e304-4218-bc5d-bbaa14b14938",
+        "player_name": "Travis Head",
+        "player_nationality": "Australian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "02 December 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fiqbal_abdulla.png?alt=media&token=f7cd3a86-f110-4afb-a359-fab227b23a69",
+        "player_name": "Iqbal Abdulla",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "26 March 1985",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fkedar_jadhav.png?alt=media&token=62d3b1e4-0839-42cf-87c5-0734e848aff3",
+        "player_name": "Kedar Jadhav",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "-",
+        "player_bowling_style": "-",
+        "player_dob": "12 October 1992",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fakshay_karnewar.png?alt=media&token=de000560-94f9-4422-a237-37594abf224e",
+        "player_name": "Akshay Karnewar",
+        "player_nationality": "Indian",
+        "player_role": "Bowling"
+    }, {
+        "player_batting_style": "Right-hand",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "22 October 1997",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fsarfaraz_khan.png?alt=media&token=827af3d8-889b-4088-9dd0-423cc8c07cf3",
+        "player_name": "Sarfaraz Khan",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "09 May 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fvikramjeet_malik.png?alt=media&token=44087f64-876b-4c25-bf7b-3ce63538f1c3",
+        "player_name": "Vikramjeet Malik",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "18 December 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fmandeep_singh.png?alt=media&token=1bda2e19-2321-468a-8712-d1d2291bf130",
+        "player_name": "Mandeep Singh",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm fast",
+        "player_dob": "13 April 1992",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fadam_milne.png?alt=media&token=50dcf1e4-b579-415f-887e-dfdedbb7e08b",
+        "player_name": "Adam Milne",
+        "player_nationality": "New Zealander",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "23 November 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fharshal_patel.png?alt=media&token=c7a002d5-63e6-4a5a-b32d-e16c2fc4125e",
+        "player_name": "Harshal Patel",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "18 April 1992",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Flokesh_rahul.png?alt=media&token=220bf92f-2627-432a-8a69-10b0baae983b",
+        "player_name": "Lokesh Rahul",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "13 February 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fparveez_rasool.png?alt=media&token=fcbefe11-dd5d-4294-b04b-27cb91d5a565",
+        "player_name": "Parveez Rasool",
+        "player_nationality": "Indian",
+        "player_role": "Bowling All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "12 February 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fkane_richardson.png?alt=media&token=92217eb3-b724-43bf-bdcc-8cd7b9a356e1",
+        "player_name": "Kane Richardson",
+        "player_nationality": "Australian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "18 December 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fsachin_baby.png?alt=media&token=f6cc6ea4-4edf-411d-86bb-396e0c6363ed",
+        "player_name": "Sachin Baby",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm fast-medium",
+        "player_dob": "30 January 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fmitchell_starc.png?alt=media&token=7aed3437-0cd9-45d3-b958-9472e67441cf",
+        "player_name": "Mitchell Starc",
+        "player_nationality": "Australian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "16 October 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fvikas_tokas.png?alt=media&token=2f976af2-f743-43d1-804e-4acf2b18b44b",
+        "player_name": "Vikas Tokas",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "17 June 1981",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fshane_watson.png?alt=media&token=0f731e27-5ddc-43a9-84f1-9e5651d7806f",
+        "player_name": "Shane Watson",
+        "player_nationality": "Australian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-hand",
+        "player_bowling_style": "Right-arm medium-fast",
+        "player_dob": "18 May 1985",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2Fdavid_wiese.png?alt=media&token=63618210-a368-40d7-a671-de80490d84ee",
+        "player_name": "David Wiese",
+        "player_nationality": "South African",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "-",
+        "player_bowling_style": "Left-Arm Chinaman",
+        "player_dob": "18 February 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2FTabraiz_shamsi.png?alt=media&token=2d3ee606-f3b6-4e33-82da-7a46d6b1b2c7",
+        "player_name": "Tabraiz Shamsi",
+        "player_nationality": "South African",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-hand",
+        "player_bowling_style": "Right-arm fast",
+        "player_dob": "04 October 1988",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/RoyalChallengersBangalore%2FChris_jordan.png?alt=media&token=d153c5cf-9d45-4192-8c59-4d6b2be21491",
+        "player_name": "Chris Jordan",
+        "player_nationality": "English",
+        "player_role": "Bowler"
+    }]
+}, {
+    "id": 7,
+    "team_captain": "David Warner",
+    "team_coach": "Tom Moody",
+    "team_home_venue": "Rajiv Gandhi Intl. Cricket Stadium",
+    "team_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/team_logo%2FSRH.jpg?alt=media&token=60bcaa33-3851-42d9-9132-6ef84e5c1b04",
+    "team_name": "Sunrisers Hyderabad",
+    "team_owner": "SUN TV Network",
+    "team_players": [{
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "27 October 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fdavid_warner.png?alt=media&token=bf3ec2b0-6e73-415e-8449-0023f8202922",
+        "player_name": "David Warner",
+        "player_nationality": "Australian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "24 February 1981",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fashish_reddy.png?alt=media&token=8a995575-bf37-4954-a572-3d86c24f5759",
+        "player_name": "Ashish Reddy",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "29 September 1996",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fricky_bhui.png?alt=media&token=410dadd6-540e-4e58-9a8e-f959f2ef2892",
+        "player_name": "Ricky Bhui",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "28 September 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fbipul_sharma.png?alt=media&token=aa4ff90d-978c-4c13-8da6-2e0baf4fa6a6",
+        "player_name": "Bipul Sharma",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-hand",
+        "player_bowling_style": "Left-arm fast-medium",
+        "player_dob": "22 July 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Ftrent_boult.png?alt=media&token=ee9b1966-6b16-4b02-8e90-b0db905c49cc",
+        "player_name": "Trent Boult",
+        "player_nationality": "New Zealander",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm fast-medium",
+        "player_dob": "30 January 1987",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fben_cutting.png?alt=media&token=f0564a00-f67b-4705-a268-4b837a569053",
+        "player_name": "Ben Cutting",
+        "player_nationality": "Australian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "-",
+        "player_dob": "05 December 1985",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fshikhar_dhawan.png?alt=media&token=a10f56e2-4234-4b3c-8d7b-6ccc258a881d",
+        "player_name": "Shikhar Dhawan",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "01 February 1987",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fmoises_henriques.png?alt=media&token=0a262a52-0510-4a7d-a072-310bf455f9a6",
+        "player_name": "Moises Henriques",
+        "player_nationality": "Australian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "19 April 1995",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fdeepak_hooda.png?alt=media&token=3c9a53ff-5673-4c41-88fd-b388d3f4ad94",
+        "player_name": "Deepak Hooda",
+        "player_nationality": "Indian",
+        "player_role": "Bowling All-rounder"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "19 May 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fsiddarth_kaul.png?alt=media&token=49e52695-0b03-436b-8cbb-bde792ca68b9",
+        "player_name": "Siddarth Kaul",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "05 December 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fbhuvneshwar_kumar.png?alt=media&token=65fc0219-a06f-4dbf-a107-35fc9c0fc629",
+        "player_name": "Bhuvneshwar Kumar",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm medium fast",
+        "player_dob": "25 October 1989",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fabhimanyu_mithun.png?alt=media&token=1b096815-360c-4a68-8d92-b281672b5f5b",
+        "player_name": "Abhimanyu Mithun",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm medium",
+        "player_dob": "10 September 1986",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Feoin_morgan.png?alt=media&token=7e897f2b-453d-4f29-a403-a954fb16abe8",
+        "player_name": "Eoin Morgan",
+        "player_nationality": "English",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Left-arm fast",
+        "player_dob": "06 September 1995",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fmustafizur_rahman.png?alt=media&token=5d8108b4-9936-4d47-83f2-716542f39f5a",
+        "player_name": "Mustafizur Rahman",
+        "player_nationality": "Bangladeshi",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Left-arm medium fast",
+        "player_dob": "29 April 1979",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fashish_nehra.png?alt=media&token=ab01257a-8552-44ab-94d2-4fedc1045b1f",
+        "player_name": "Ashish Nehra",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "20 July 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fnaman_ojha.png?alt=media&token=848a8e19-5381-4a87-aa2b-afe9c4fed0ed",
+        "player_name": "Naman Ojha",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm offbreak",
+        "player_dob": "26 January 1991",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fvijay_shankar.png?alt=media&token=de54ee24-8290-4538-8dce-d65a45aab23f",
+        "player_name": "Vijay Shankar",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Right-arm leg spin",
+        "player_dob": "23 October 1987",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fkarn_sharma.png?alt=media&token=d585da90-380e-40d9-85c8-2e5a5860cd38",
+        "player_name": "Karn Sharma",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }, {
+        "player_batting_style": "-",
+        "player_bowling_style": "Left-arm medium",
+        "player_dob": "10 December 1992",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fbarinder_sran.png?alt=media&token=56c924e9-ebe6-42ce-9ab9-2019f9e3205b",
+        "player_name": "Barinder Sran",
+        "player_nationality": "Indian",
+        "player_role": "Bowler"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "15 December 1983",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Ftirumalasetti_suman.png?alt=media&token=8b172d22-98d4-437c-862f-94a3498b7e47",
+        "player_name": "Tirumalasetti Suman",
+        "player_nationality": "Indian",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Right-handed",
+        "player_bowling_style": "-",
+        "player_dob": "27 February 2012",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Faditya_tare.png?alt=media&token=09b7cae4-7f5e-4ead-88a5-0e88dbb2ab0f",
+        "player_name": "Aditya Tare",
+        "player_nationality": "Indian",
+        "player_role": "Wicketkeeper Batsman"
+    }, {
+        "player_batting_style": "Right-hand",
+        "player_bowling_style": "Right-arm off-spin",
+        "player_dob": "08 August 1990",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fkane_williamson.png?alt=media&token=ce46907f-e40b-4593-bf09-3700d5fa56cf",
+        "player_name": "Kane Williamson",
+        "player_nationality": "New Zealander",
+        "player_role": "Batsman"
+    }, {
+        "player_batting_style": "Left-handed",
+        "player_bowling_style": "Left-arm orthodox spin",
+        "player_dob": "12 December 1981",
+        "player_img_url": "https://firebasestorage.googleapis.com/v0/b/iplapp-e5ad8.appspot.com/o/SunRisersHyderabad%2Fyuvraj_singh.png?alt=media&token=126cb6e6-7c77-4acb-9318-7b54568ee2c9",
+        "player_name": "Yuvraj Singh",
+        "player_nationality": "Indian",
+        "player_role": "All-rounder"
+    }]
+}]

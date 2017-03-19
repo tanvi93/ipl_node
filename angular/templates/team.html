@@ -1,0 +1,26 @@
+<div class="row" style="background-image:url({{bgimg}}); height:100vh; margin:-20px; ">
+    <span class="col-xs-12 col-sm-6 col-md-3 " ng-repeat="team in teamlogo">
+  <div  class="flip-container" ontouchstart="this.classList.toggle('hover');">
+  <div class="flipper">
+    <div class="front">
+
+<img class="img-responsive" width="230" height="210" src="{{team.team_img_url}}"  alt="{{team.team_name}}"/>
+</div>
+  <div class="back">
+  <div class="product-description">
+    <p><span><b>Team Name:</b></span>{{team.team_name}}</p>
+    <p><span><b>Team coach:</b></span>{{team.team_coach}} </p>
+    <p><span><b>Team captain:</b> </span>{{team.team_captain}}</p>
+    <p><span><b>Team Home Venue:</b> </span>{{team.team_home_venue}}</p>
+    <p><span><b>Team Owner:</b> </span>{{team.team_owner}} </p>
+
+    <a ng-click="clickadd(team._id)" ui-sref="player">
+        <div id="align"><button type="button">Team Players</button></div>
+    </a>
+
+</div>
+</div>
+</div>
+</div>
+</span>
+</div>
